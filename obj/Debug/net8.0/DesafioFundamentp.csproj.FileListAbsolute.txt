@@ -1,0 +1,14 @@
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\DesafioFundamentp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\DesafioFundamentp.AssemblyInfoInputs.cache
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\DesafioFundamentp.AssemblyInfo.cs
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\DesafioFundamentp.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\bin\Debug\net8.0\DesafioFundamentp.exe
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\bin\Debug\net8.0\DesafioFundamentp.deps.json
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\bin\Debug\net8.0\DesafioFundamentp.runtimeconfig.json
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\bin\Debug\net8.0\DesafioFundamentp.dll
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\bin\Debug\net8.0\DesafioFundamentp.pdb
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\DesafioFundamentp.dll
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\refint\DesafioFundamentp.dll
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\DesafioFundamentp.pdb
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\DesafioFundamentp.genruntimeconfig.cache
+C:\Users\Juanc\Desenvolvimento\DesafioFundamentp\obj\Debug\net8.0\ref\DesafioFundamentp.dll
